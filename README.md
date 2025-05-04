@@ -47,14 +47,14 @@ To set up the project, follow these steps:
 
 ## Project Structure:
 - Ensure the following structure:
-project_directory/
-├── app.py
-├── generatemusic.py
-├── templates/
-│ └── index.html
-├── user.txt (created automatically)
-├── final.txt (created automatically)
-└── music/ (created automatically)
+      project_directory/
+      ├── app.py
+      ├── generatemusic.py
+      ├── templates/
+      │ └── index.html
+      ├── user.txt (created automatically)
+      ├── final.txt (created automatically)
+      └── music/ (created automatically)
 
 ## **How to Run**
 ## 1.Start Ollama:
