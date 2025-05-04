@@ -46,15 +46,16 @@ To set up the project, follow these steps:
 - Replace the placeholder token in `generatemusic.py` (`API_TOKEN = 'YhF266ZWSoq8ET1I_MNbUA'`) with your token.
 
 ## Project Structure:
-- Ensure the following structure:
-      project_directory/
-      ├── app.py
-      ├── generatemusic.py
-      ├── templates/
-      │ └── index.html
-      ├── user.txt (created automatically)
-      ├── final.txt (created automatically)
-      └── music/ (created automatically)
+- Ensure the following structure
+  
+  project_directory/
+  ├── app.py
+  ├── generatemusic.py
+  ├── templates/
+  │ └── index.html
+  ├── user.txt (created automatically)
+  ├── final.txt (created automatically)
+  └── music/ (created automatically)
 
 ## **How to Run**
 ## 1.Start Ollama:
